@@ -1,0 +1,24 @@
+{
+  "name": "cureit",
+  "version": "1.0.0",
+  "description": "this is a app to fight COVID19",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^14.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Upinder123/cureit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Upinder123/cureit/issues"
+  },
+  "homepage": "https://github.com/Upinder123/cureit#readme"
+}
